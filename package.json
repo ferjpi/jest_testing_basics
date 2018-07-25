@@ -1,0 +1,15 @@
+{
+  "name": "jest_testing_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "fernando pineda <fernandojpt1203@gmail.com> (www.ferjpi.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
